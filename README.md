@@ -28,3 +28,5 @@ It will be very necessary in further work, especially with the terminal, when wo
 ![week2](./task_git_collaboration/week-two.png)
 ![week3](./task_git_collaboration/week-three.png)
 ![week4](./task_git_collaboration/week-four.png)
+
+On the Coursera course, it was interesting and intelligibly explained the theory, and it turned out to be well consolidated in practice, on the learngitbranching.com website
