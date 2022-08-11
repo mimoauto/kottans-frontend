@@ -9,10 +9,13 @@ It will be exciting if everything works out the first time
 - [x] 3.Intro to HTML and CSS
 
 ## Linux CLI, and HTTP
+<details><summary>More info...</summary>
+
 ![quiz-one](/task_linux_cli/Quiz-one.png)
 ![quiz-two](/task_linux_cli/Quiz-two.png)
 ![quiz-three](/task_linux_cli/Quiz-three.png)
 ![quiz-four](/task_linux_cli/Quiz-four.png)
+</details>
 
 It was very interesting. Almost all things were new to me.
 
@@ -22,12 +25,14 @@ It will be very necessary in further work, especially with the terminal, when wo
 
 ## Git Collaboration
 <details><summary>More info...</summary>
+
 ![learn-git-1](./task_git_collaboration/learngit1.png)
 ![learn-git-2](./task_git_collaboration/learngit2.png)
 </details>
 
 ### Introduction to Git and GitHub
 <details><summary>More info...</summary>
+
 ![week1](./task_git_collaboration/week-one.png)
 ![week2](./task_git_collaboration/week-two.png)
 ![week3](./task_git_collaboration/week-three.png)
@@ -38,6 +43,7 @@ On the Coursera course, it was interesting and intelligibly explained the theory
 
 ## Intro to HTML and CSS
 <details><summary>More info...</summary>
+
 ![codeacademy](./task_html_css_intro/codeacademy.png)
 ![coursera-week1](./task_html_css_intro/coursera1.png)
 ![coursera-week2](./task_html_css_intro/coursera2.png)
