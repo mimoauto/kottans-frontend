@@ -6,6 +6,7 @@ It will be exciting if everything works out the first time
 - [x] 0. Git Basics
 - [x] 1. Linux CLI and Networking
 - [x] 2. Git Collaboration
+- [x] 3.Intro to HTML and CSS
 
 ## Linux CLI, and HTTP
 ![quiz-one](/task_linux_cli/Quiz-one.png)
@@ -20,13 +21,30 @@ I realized that with the help of commands I can manage any process.
 It will be very necessary in further work, especially with the terminal, when working with Git
 
 ## Git Collaboration
+<details><summary>More info...</summary>
 ![learn-git-1](./task_git_collaboration/learngit1.png)
 ![learn-git-2](./task_git_collaboration/learngit2.png)
+</details>
 
 ### Introduction to Git and GitHub
+<details><summary>More info...</summary>
 ![week1](./task_git_collaboration/week-one.png)
 ![week2](./task_git_collaboration/week-two.png)
 ![week3](./task_git_collaboration/week-three.png)
 ![week4](./task_git_collaboration/week-four.png)
 
 On the Coursera course, it was interesting and intelligibly explained the theory, and it turned out to be well consolidated in practice, on the learngitbranching.com website
+</details>
+
+## Intro to HTML and CSS
+<details><summary>More info...</summary>
+![codeacademy](./task_html_css_intro/codeacademy.png)
+![coursera-week1](./task_html_css_intro/coursera1.png)
+![coursera-week2](./task_html_css_intro/coursera2.png)
+
+I learned new things for myself working with <figure> and <figcaption> come in.
+
+Refreshed knowledge about box-model, positioning
+
+Better understood about Responsive design
+</details>
