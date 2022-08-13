@@ -54,3 +54,17 @@ Refreshed knowledge about box-model, positioning
 
 Better understood about Responsive design
 </details>
+
+## Responsive Web Design
+
+<details><summary>More info...</summary>
+
+![froggy](./task_responsive_web_design/froggy.png)
+![grid_garden](./task_responsive_web_design/grid_garden.png)
+
+Expanded skills in working with Flex-box
+
+I learned how to work with Grid, it was new for me. I realized how convenient it is to use and how I can create beautiful designs with it
+
+The lessons on the youtube channel are very useful, they explain everything in an accessible way. I want to put my knowledge into practice
+</details>
