@@ -6,7 +6,8 @@ It will be exciting if everything works out the first time
 - [x] 0. Git Basics
 - [x] 1. Linux CLI and Networking
 - [x] 2. Git Collaboration
-- [x] 3.Intro to HTML and CSS
+- [x] 3. Intro to HTML and CSS
+- [x] 4. Responsive Web Design 
 
 ## Linux CLI, and HTTP
 <details><summary>More info...</summary>
