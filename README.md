@@ -69,3 +69,23 @@ I learned how to work with Grid, it was new for me. I realized how convenient it
 
 The lessons on the youtube channel are very useful, they explain everything in an accessible way. I want to put my knowledge into practice
 </details>
+
+## JS Basics
+<details><summary>More info...</summary>
+
+![coursera](./task_js_basics/coursera_js_basics.png)
+![basic_js](./task_js_basics/basic_javascript.png)
+![es6](./task_js_basics/es6.png)
+![basic_data_structures](./task_js_basics/basic_data_structures.png)
+![basic_algorithm](./task_js_basics/basic_algorithm.png)
+![functional_programming](./task_js_basics/functional_programming.png)
+![intermediate_algorithm](./task_js_basics/intermediate_algorithm.png)
+
+1. Сoursera - The material is presented in an interesting way. I already knew most of the material, but I refreshed my memory
+2. Basic JavaScript - was been really ease
+3. ES6 Challenges - learned some new things
+4. Basic Data Structures - very interesting tasks
+5. Basic Algorithm Scripting - Learned how to use array and object methods
+6. Functional Programming and Intermediate algorithm - It was not easy, I had to sit on tasks for a long time
+
+</details>
